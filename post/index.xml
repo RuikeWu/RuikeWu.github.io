@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Example Site</title>
+        <link>http://localhost:1313/RuikeWu/RuikeWu.github.io.git/post/</link>
+        <description>Recent content in Posts on Example Site</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Example Person</copyright>
+        <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/RuikeWu/RuikeWu.github.io.git/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Robust Tests for Changing Volatility, Statistica Sinica</title>
+        <link>http://localhost:1313/RuikeWu/RuikeWu.github.io.git/p/robust-tests-for-changing-volatility-statistica-sinica/</link>
+        <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/RuikeWu/RuikeWu.github.io.git/p/robust-tests-for-changing-volatility-statistica-sinica/</guid>
+        <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract
+&lt;/h2&gt;&lt;p&gt;This paper develops two modified CUSUM and QS tests to examine structural changes in volatility based on least absolute deviation (LAD) regression and consistent estimation of the long-run variance (LRV). We establish fairly mild conditions under which the new tests have standard null distributions and are consistent against any fixed alternatives that deviate from the null, including smooth changes, single or multiple breakpoints in volatility. In addition, the tests also have asymptotic unit powers against two classes of local alternatives approaching the null at different rates. Simulations are conducted to show better finite sample performance of the new tests relative to other popular tests especially in the presence of heavy-tailed  innovations. Finally, two empirical applications to detection of structural changes in volatilities of U.S. dollar/Russian Ruble exchange rate and S&amp;amp;P 500 index highlight the usefulness of our tests in real datasets.&lt;/p&gt;
+&lt;p&gt;&lt;mark&gt;&lt;a class=&#34;link&#34; href=&#34;https://drive.google.com/file/d/1y0uk7b4xccIWtCyGUtzcWIlyRluZDZ7Y/view?usp=sharing&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;PDF&lt;/a&gt;&lt;/mark&gt;        &lt;mark&gt;&lt;a class=&#34;link&#34; href=&#34;https://drive.google.com/file/d/1PL4tdePIQr9PASDpgSs8dBS4Qp1eOCkg/view?usp=sharing&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Supplement&lt;/a&gt;&lt;/mark&gt;           &lt;mark&gt;&lt;a class=&#34;link&#34; href=&#34;https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2023-0207_na.pdf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Official Website&lt;/a&gt;&lt;/mark&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+        <title>Time-varying Minimum Variance Portfolio, Journal of Econometrics</title>
+        <link>http://localhost:1313/RuikeWu/RuikeWu.github.io.git/p/time-varying-minimum-variance-portfolio-journal-of-econometrics/</link>
+        <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/RuikeWu/RuikeWu.github.io.git/p/time-varying-minimum-variance-portfolio-journal-of-econometrics/</guid>
+        <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract
+&lt;/h2&gt;&lt;p&gt;This paper proposes a new time-varying minimum variance portfolio (TV-MVP) in a large investment universe of assets. Our method extends the existing literature on minimum variance portfolios by allowing for time-varying factor loadings, which facilitates the capture of the dynamics of the covariance structure of asset returns (and hence, the optimal investment strategy in a dynamic setting). We also use a shrinkage estimation method based on a quasi-likelihood function to regularize the residual covariances further. We establish the desired theoretical properties of proposed time-varying covariance and the optimal portfolio estimators under a more realistic heavy-tailed distribution. Specifically, we provide consistency of the optimal Sharpe ratio of the TV-MVP and the sharp risk consistency. Moreover, we offer a test of constant covariance structure and show the asymptotic distribution of the test statistic. Simulation and empirical studies suggest that the performance of the proposed TV-MVP is superior, in terms of estimation accuracy and out-of-sample Sharpe ratio, compared with that of other popular contemporary methods.&lt;/p&gt;
+&lt;p&gt;&lt;mark&gt;&lt;a class=&#34;link&#34; href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3956956&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Earlier Version&lt;/a&gt;&lt;/mark&gt;         &lt;mark&gt;&lt;a class=&#34;link&#34; href=&#34;https://drive.google.com/file/d/19ucctAdbZQ8LQO87cqOw2-e8PNofTFvA/view?usp=sharing&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;PDF&lt;/a&gt;&lt;/mark&gt;        &lt;mark&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/RuikeWu/TV-MVP&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Code&lt;/a&gt;&lt;/mark&gt;          &lt;mark&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S0304407622001646&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Official Website&lt;/a&gt;&lt;/mark&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+        <title>A Nonparametric Test for Instantaneous Causality with Time-varying Variances, Econometric Theory</title>
+        <link>http://localhost:1313/RuikeWu/RuikeWu.github.io.git/p/a-nonparametric-test-for-instantaneous-causality-with-time-varying-variances-econometric-theory/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/RuikeWu/RuikeWu.github.io.git/p/a-nonparametric-test-for-instantaneous-causality-with-time-varying-variances-econometric-theory/</guid>
+        <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract
+&lt;/h2&gt;&lt;p&gt;This paper proposes a consistent nonparametric test with good sampling properties to detect instantaneous causality between vector autoregressive (VAR) variables with time-varying variances. The new test takes the form of the U-statistic, and has a limiting standard normal distribution under the null. We further show that the test is consistent against any fixed alternatives, and has non-trivial asymptotic power against a class of local alternatives with a rate slower than T&lt;sup&gt;-1/2&lt;/sup&gt;. We also propose a wild bootstrap procedure to better approximate the finite sample null distribution of the test statistic. Monte Carlo experiments are conducted to highlight the merits of the proposed test relative to other popular tests in finite samples. Finally, we apply the new test to investigate the instantaneous causality relationship between money supply and inflation rates in the USA.&lt;/p&gt;
+&lt;p&gt;&lt;mark&gt;&lt;a class=&#34;link&#34; href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4738060&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Earlier Version&lt;/a&gt;&lt;/mark&gt;         &lt;mark&gt;&lt;a class=&#34;link&#34; href=&#34;https://drive.google.com/file/d/1hdG_FckwMzxVNMd0RSOsrh7TOOaOEgRo/view?usp=sharing&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;PDF&lt;/a&gt;&lt;/mark&gt;        &lt;mark&gt;&lt;a class=&#34;link&#34; href=&#34;https://drive.google.com/file/d/1QQNsITpVIGBgiSZ7vzbQAbqoP6O55uIB/view?usp=sharing&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Supplement&lt;/a&gt;&lt;/mark&gt;      &lt;/p&gt;</description>
+        </item>
+        <item>
+        <title>Quantile Analysis for Financial Bubble Detection and Surveillance, Journal of Time Series Analysis</title>
+        <link>http://localhost:1313/RuikeWu/RuikeWu.github.io.git/p/quantile-analysis-for-financial-bubble-detection-and-surveillance-journal-of-time-series-analysis/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/RuikeWu/RuikeWu.github.io.git/p/quantile-analysis-for-financial-bubble-detection-and-surveillance-journal-of-time-series-analysis/</guid>
+        <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract
+&lt;/h2&gt;&lt;p&gt;Understanding and monitoring financial bubbles is critical, as they can lead to market instability, asset price crashes, and economic downturns with widespread consequences. This paper explores the usefulness of quantile regression (QR) techniques in detecting and surveilling financial bubbles, encompassing both global testing and real-time monitoring. We demonstrate that the QR-based quantile unit root test, coupled with an optimal quantile selection technique, serves as an effective tool for a global bubble test without necessitating additional recursive techniques. Moreover, we propose two QR-based bubble monitoring techniques. We show that the monitoring statistics follow a random variate under the null hypothesis of no bubbles but diverge to positive infinity in the presence of a mildly explosive bubble, and hence consistently date the origination of a bubble. Monte Carlo simulations suggest that compared with their LS counterparts, in the presence of skewed distributions, the QR-based global test delivers substantially greater power, while the QR-based monitoring procedures offer higher bubble detection rate and more accurate dating of the bubble origination. As an illustration, we conduct a pseudo real-time monitoring exercise with the S&amp;amp;P 500 composite index.&lt;/p&gt;
+&lt;p&gt;&lt;mark&gt;&lt;a class=&#34;link&#34; href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4675490&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Earlier Version&lt;/a&gt;&lt;/mark&gt;    &lt;/p&gt;</description>
+        </item>
+        
+    </channel>
+</rss>

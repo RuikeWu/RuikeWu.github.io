@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>High Dimension on Example Site</title>
+        <link>http://localhost:1313/RuikeWu/RuikeWu.github.io.git/categories/high-dimension/</link>
+        <description>Recent content in High Dimension on Example Site</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Example Person</copyright>
+        <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/RuikeWu/RuikeWu.github.io.git/categories/high-dimension/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Time-varying Minimum Variance Portfolio, Journal of Econometrics</title>
+        <link>http://localhost:1313/RuikeWu/RuikeWu.github.io.git/p/time-varying-minimum-variance-portfolio-journal-of-econometrics/</link>
+        <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/RuikeWu/RuikeWu.github.io.git/p/time-varying-minimum-variance-portfolio-journal-of-econometrics/</guid>
+        <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract
+&lt;/h2&gt;&lt;p&gt;This paper proposes a new time-varying minimum variance portfolio (TV-MVP) in a large investment universe of assets. Our method extends the existing literature on minimum variance portfolios by allowing for time-varying factor loadings, which facilitates the capture of the dynamics of the covariance structure of asset returns (and hence, the optimal investment strategy in a dynamic setting). We also use a shrinkage estimation method based on a quasi-likelihood function to regularize the residual covariances further. We establish the desired theoretical properties of proposed time-varying covariance and the optimal portfolio estimators under a more realistic heavy-tailed distribution. Specifically, we provide consistency of the optimal Sharpe ratio of the TV-MVP and the sharp risk consistency. Moreover, we offer a test of constant covariance structure and show the asymptotic distribution of the test statistic. Simulation and empirical studies suggest that the performance of the proposed TV-MVP is superior, in terms of estimation accuracy and out-of-sample Sharpe ratio, compared with that of other popular contemporary methods.&lt;/p&gt;
+&lt;p&gt;&lt;mark&gt;&lt;a class=&#34;link&#34; href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3956956&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Earlier Version&lt;/a&gt;&lt;/mark&gt;         &lt;mark&gt;&lt;a class=&#34;link&#34; href=&#34;https://drive.google.com/file/d/19ucctAdbZQ8LQO87cqOw2-e8PNofTFvA/view?usp=sharing&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;PDF&lt;/a&gt;&lt;/mark&gt;        &lt;mark&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/RuikeWu/TV-MVP&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Code&lt;/a&gt;&lt;/mark&gt;          &lt;mark&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S0304407622001646&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Official Website&lt;/a&gt;&lt;/mark&gt;&lt;/p&gt;</description>
+        </item>
+        
+    </channel>
+</rss>
